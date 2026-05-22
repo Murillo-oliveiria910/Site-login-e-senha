@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Chamados",
+  "description": "Sistema de abertura e encerramento de chamados para Operadores e Mecânicos conectado ao Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
